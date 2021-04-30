@@ -1,11 +1,5 @@
-﻿{
-    "Id": "07b86777-0c50-47d6-885b-da1ff2b2aa61",
-    "Url": "www.epdata.es/proyeccion-poblacion-residente-espana-2070/07b86777-0c50-47d6-885b-da1ff2b2aa61",
-    "Titulo": "Proyección de la población residente en España hasta 2070",
-    "Subtitulo": "",
-    "Datos": {
-        "Metricas": [
-            {
+[
+   {
                 "Id": 0,
                 "Nombre": "Total",
                 "SonDatosNumericos": true,
