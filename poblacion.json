@@ -1,14 +1,4 @@
 [
-   {
-                "Id": 0,
-                "Nombre": "Total",
-                "SonDatosNumericos": true,
-                "Fuente": "INE",
-                "Clasificacion": null,
-                "Unidad": "Habitantes",
-                "Escala": "Unidades",
-                "EscalaFactorPotencia10": 0,
-                "Datos": [
                     {
                         "Agno": 2020,
                         "Periodo": "Año",
