@@ -1,5 +1,6 @@
-﻿[
-            {
+{
+   "poblacion":[
+      {
                 "Id": 0,
                 "Nombre": "Total",
                 "SonDatosNumericos": true,
