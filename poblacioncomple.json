@@ -1,7 +1,6 @@
 {
    "poblacion":[
-      { [
-                    {
+      { 
                         "Agno": 2020,
                         "Periodo": "Año",
                         "Parametro": "2020",
