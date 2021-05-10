@@ -1,0 +1,466 @@
+﻿{
+ "masculino": [
+                    
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Año",
+                        "Parametro": "2020",
+                        "masculino": 22.736689,
+                        "femenino": 23.671482,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2021,
+                        "Periodo": "Año",
+                        "Parametro": "2021",
+                        "masculino": 22.712193,
+                        "femenino": 23.668745,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2022,
+                        "Periodo": "Año",
+                        "Parametro": "2022",
+                        "masculino": 22.685121,
+                        "femenino": 23.661984,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2023,
+                        "Periodo": "Año",
+                        "Parametro": "2023",
+                        "masculino": 22.655792,
+                        "femenino": 23.65177,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2024,
+                        "Periodo": "Año",
+                        "Parametro": "2024",
+                        "masculino": 22.6246,
+                        "femenino": 23.638762,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2025,
+                        "Periodo": "Año",
+                        "Parametro": "2025",
+                        "masculino": 22.591941,
+                        "femenino": 23.623477,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2026,
+                        "Periodo": "Año",
+                        "Parametro": "2026",
+                        "masculino": 22.558108,
+                        "femenino": 23.606468,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2027,
+                        "Periodo": "Año",
+                        "Parametro": "2027",
+                        "masculino": 22.523404,
+                        "femenino": 23.588128,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2028,
+                        "Periodo": "Año",
+                        "Parametro": "2028",
+                        "masculino": 22.487971,
+                        "femenino": 23.568847,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2029,
+                        "Periodo": "Año",
+                        "Parametro": "2029",
+                        "masculino": 22.451963,
+                        "femenino": 23.548895,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2030,
+                        "Periodo": "Año",
+                        "Parametro": "2030",
+                        "masculino": 22.415518,
+                        "femenino": 23.528433,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2031,
+                        "Periodo": "Año",
+                        "Parametro": "2031",
+                        "masculino": 22.37863,
+                        "femenino": 23.507547,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2032,
+                        "Periodo": "Año",
+                        "Parametro": "2032",
+                        "masculino": 22.341419,
+                        "femenino": 23.486391,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2033,
+                        "Periodo": "Año",
+                        "Parametro": "2033",
+                        "masculino": 22.303818,
+                        "femenino": 23.464818,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2034,
+                        "Periodo": "Año",
+                        "Parametro": "2034",
+                        "masculino": 22.265825,
+                        "femenino": 23.442723,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2035,
+                        "Periodo": "Año",
+                        "Parametro": "2035",
+                        "masculino": 22.227566,
+                        "femenino": 23.420057,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2036,
+                        "Periodo": "Año",
+                        "Parametro": "2036",
+                        "masculino": 22.18895,
+                        "femenino": 23.396705,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2037,
+                        "Periodo": "Año",
+                        "Parametro": "2037",
+                        "masculino": 22.149777,
+                        "femenino": 23.372264,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2038,
+                        "Periodo": "Año",
+                        "Parametro": "2038",
+                        "masculino": 22.110118,
+                        "femenino": 23.346853,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2039,
+                        "Periodo": "Año",
+                        "Parametro": "2039",
+                        "masculino": 22.069788,
+                        "femenino": 23.320332,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2040,
+                        "Periodo": "Año",
+                        "Parametro": "2040",
+                        "masculino": 22.028666,
+                        "femenino": 23.29252,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2041,
+                        "Periodo": "Año",
+                        "Parametro": "2041",
+                        "masculino": 21.985445,
+                         "femenino": 23.261715,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2042,
+                        "Periodo": "Año",
+                        "Parametro": "2042",
+                        "masculino": 21.940372,
+                        "femenino": 23.228501,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2043,
+                        "Periodo": "Año",
+                        "Parametro": "2043",
+                        "masculino": 21.892899,
+                        "femenino": 23.192147,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2044,
+                        "Periodo": "Año",
+                        "Parametro": "2044",
+                        "masculino": 21.842253,
+                        "femenino": 23.151729,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2045,
+                        "Periodo": "Año",
+                        "Parametro": "2045",
+                        "masculino": 21.788158,
+                        "femenino": 23.107048,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2046,
+                        "Periodo": "Año",
+                        "Parametro": "2046",
+                        "masculino": 21.730228,
+                        "femenino": 23.057678,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2047,
+                        "Periodo": "Año",
+                        "Parametro": "2047",
+                        "masculino": 21.668461,
+                        "femenino": 23.003672,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2048,
+                        "Periodo": "Año",
+                        "Parametro": "2048",
+                        "masculino": 21.602583,
+                        "femenino": 22.944648,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2049,
+                        "Periodo": "Año",
+                        "Parametro": "2049",
+                        "masculino": 21.532247,
+                        "femenino": 22.880038,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2050,
+                        "Periodo": "Año",
+                        "Parametro": "2050",
+                        "masculino": 21.457802,
+                        "femenino": 22.810279,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2051,
+                        "Periodo": "Año",
+                        "Parametro": "2051",
+                        "masculino": 21.379519,
+                        "femenino": 22.73569,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2052,
+                        "Periodo": "Año",
+                        "Parametro": "2052",
+                        "masculino": 21.297459,
+                        "femenino": 22.656165,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2053,
+                        "Periodo": "Año",
+                        "Parametro": "2053",
+                        "masculino": 21.211598,
+                        "femenino": 22.571527,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2054,
+                        "Periodo": "Año",
+                        "Parametro": "2054",
+                        "masculino": 21.122362,
+                        "femenino": 22.482121,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2055,
+                        "Periodo": "Año",
+                        "Parametro": "2055",
+                        "masculino": 21.03022,
+                        "femenino": 22.388364,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2056,
+                        "Periodo": "Año",
+                        "Parametro": "2056",
+                        "masculino": 20.935314,
+                        "femenino": 22.290346,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2057,
+                        "Periodo": "Año",
+                        "Parametro": "2057",
+                        "masculino": 20.83799,
+                        "femenino": 22.188355,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2058,
+                        "Periodo": "Año",
+                        "Parametro": "2058",
+                        "masculino": 20.738384,
+                        "femenino": 22.082382,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2059,
+                        "Periodo": "Año",
+                        "Parametro": "2059",
+                        "masculino": 20.637016,
+                        "femenino": 21.973009,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2060,
+                        "Periodo": "Año",
+                        "Parametro": "2060",
+                        "masculino": 20.534342,
+                        "femenino": 21.860796,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2061,
+                        "Periodo": "Año",
+                        "Parametro": "2061",
+                        "masculino": 20.430744,
+                        "femenino": 21.74616,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2062,
+                        "Periodo": "Año",
+                        "Parametro": "2062",
+                        "masculino": 20.326861,
+                        "femenino": 21.629874,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2063,
+                        "Periodo": "Año",
+                        "Parametro": "2063",
+                        "masculino": 20.222987,
+                        "femenino": 21.512286,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2064,
+                        "Periodo": "Año",
+                        "Parametro": "2064",
+                        "masculino": 20.119379,
+                        "femenino": 21.393639,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2065,
+                        "Periodo": "Año",
+                        "Parametro": "2065",
+                        "masculino": 20.016203,
+                        "femenino": 21.273967,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2066,
+                        "Periodo": "Año",
+                        "Parametro": "2066",
+                        "masculino": 19.914365,
+                        "femenino": 21.154278,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2067,
+                        "Periodo": "Año",
+                        "Parametro": "2017",
+                        "masculino": 22.792431,
+                        "femenino": 23.650819,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2068,
+                        "Periodo": "Año",
+                        "Parametro": "2018",
+                        "masculino": 22.776918,
+                        "femenino": 23.662873,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2069,
+                        "Periodo": "Año",
+                        "Parametro": "2019",
+                        "masculino": 22.758319,
+                        "femenino": 23.669656,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2070,
+                        "Periodo": "Año",
+                        "Parametro": "2017",
+                        "masculino": 22.792431,
+                        "femenino": 23.650819,
+                        "Estado": "Definitivo",
+                        "Notas": null
+                    },
+                ]
+            }   
+}
+           
