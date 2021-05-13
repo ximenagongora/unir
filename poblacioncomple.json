@@ -413,358 +413,307 @@
       "2020":[
          {
             "masculino": 22.736689,
-            "femenino": 23.671482,
-            "total": 46.408171
+            "femenino": 23.671482
          }
       ],
       "2021":[
          {
             "masculino": 22.712193,
-            "femenino": 23.668745,
-            "valor": 43.852713
+            "femenino": 23.668745
          }
       ],
       "2022":[
          {
            "masculino": 22.685121,
-           "femenino": 23.661984,
-           "total": 44.152311
+           "femenino": 23.661984
          }
       ],
       "2023":[
          {
             "masculino": 22.655792,
-            "femenino": 23.65177,
-            "total": 44.44719
+            "femenino": 23.65177
          }
       ],
       "2024":[
          {
             "masculino": 22.6246,
-            "femenino": 23.638762,
-            "total": 44.736572
+            "femenino": 23.638762
          }
       ],
       "2025":[
          {
             "masculino": 22.591941,
-            "femenino": 23.623477,
-            "total": 45.019104
+            "femenino": 23.623477
          }
       ],
       "2026":[
          {
             "masculino": 22.558108,
-            "femenino": 23.606468,
-            "total": 45.294074
+            "femenino": 23.606468
          }
       ],
       "2027":[
          {
             "masculino": 22.523404,
-            "femenino": 23.588128,
-            "total": 45.560194
+            "femenino": 23.588128
          }
       ],
       "2028":[
          {
             "masculino": 22.487971,
-            "femenino": 23.568847,
-            "total": 45.816761
+            "femenino": 23.568847
          }
       ],
       "2029":[
          {
             "masculino": 22.451963,
-            "femenino": 23.548895,
-            "total": 46.062357
+            "femenino": 23.548895
          }
       ],
       "2030":[
          {
             "masculino": 22.415518,
-            "femenino": 23.528433,
-            "total": 46.296361
+            "femenino": 23.528433
          }
       ],
       "2031":[
          {
             "masculino": 22.37863,
-            "femenino": 23.507547,
-            "total": 46.517661
+            "femenino": 23.507547
          }
       ],
       "2032":[
          {
             "masculino": 22.341419,
-            "femenino": 23.486391,
-            "total": 46.725219
+            "femenino": 23.486391
          }
       ],
       "2033":[
          {
             "masculino": 22.303818,
-            "femenino": 23.464818,
-            "total": 46.919189
+            "femenino": 23.464818
          }
       ],
       "2034":[
          {
             "masculino": 22.265825,
-            "femenino": 23.442723,
-            "total": 47.099463
+            "femenino": 23.442723
          }
       ],
       "2035":[
          {
             "masculino": 22.227566,
-            "femenino": 23.420057,
-            "total": 47.267309
+            "femenino": 23.420057
          }
       ],
       "2036":[
          {
             "masculino": 22.18895,
-            "femenino": 23.396705,
-            "total": 47.423942
+            "femenino": 23.396705
          }
       ],
       "2037":[
          {
             "masculino": 22.149777,
-            "femenino": 23.372264,
-            "total": 47.56888
+            "femenino": 23.372264
          }
       ],
       "2038":[
          {
             "masculino": 22.110118,
-            "femenino": 23.346853,
-            "total": 47.702156
+            "femenino": 23.346853
          }
       ],
       "2039":[
          {
             "masculino": 22.069788,
-            "femenino": 23.320332,
-            "total": 47.824033
+            "femenino": 23.320332
          }
       ],
       "2040":[
          {
             "masculino": 22.028666,
-            "femenino": 23.29252,
-            "total": 47.934894
+            "femenino": 23.29252
          }
       ],
       "2041":[
          {
             "masculino": 21.985445,
-            "femenino": 23.261715,
-            "total": 48.03455
+            "femenino": 23.261715
          }
       ],
       "2042":[
          {
             "masculino": 21.940372,
-            "femenino": 23.228501,
-            "total": 48.124275
+            "femenino": 23.228501
          }
       ],
       "2043":[
          {
             "masculino": 21.892899,
-            "femenino": 23.192147,
-            "total": 48.204802
+            "femenino": 23.192147
          }
       ],
       "2044":[
          {
             "masculino": 21.842253,
-            "femenino": 23.151729,
-            "total": 48.27674
+            "femenino": 23.151729
          }
       ],
       "2045":[
          {
             "masculino": 21.788158,
-            "femenino": 23.107048,
-            "total": 48.341024
+            "femenino": 23.107048
          }
       ],
       "2046":[
          {
             "masculino": 21.730228,
-            "femenino": 23.057678,
-            "total": 48.398384
+            "femenino": 23.057678
          }
       ],
       "2047":[
          {
             "masculino": 21.668461,
-            "femenino": 23.003672,
-            "total": 48.449629
+            "femenino": 23.003672
          }
       ],
       "2048":[
          {
             "masculino": 21.602583,
-            "femenino": 22.944648,
-            "total": 48.495168
+            "femenino": 22.944648
          }
       ],
       "2049":[
          {
             "masculino": 21.532247,
-            "femenino": 22.880038,
-            "total": 48.535116
+            "femenino": 22.880038
          }
       ],
       "2050":[
          {
             "masculino": 21.457802,
-            "femenino": 22.810279,
-            "total": 48.569825
+            "femenino": 22.810279
          }
       ],
       "2051":[
          {
             "masculino": 21.379519,
-            "femenino": 22.73569,
-            "total": 48.599444
+            "femenino": 22.73569
          }
       ],
       "2052":[
          {
             "masculino": 21.297459,
-            "femenino": 22.656165,
-            "total": 48.623796
+            "femenino": 22.656165
          }
       ],
       "2053":[
          {
             "masculino": 21.211598,
-            "femenino": 22.571527,
-            "total": 48.642544
+            "femenino": 22.571527
          }
       ],
       "2054":[
          {
             "masculino": 21.122362,
-            "femenino": 22.482121,
-            "total": 48.655524
+            "femenino": 22.482121
          }
       ],
       "2055":[
          {
             "masculino": 21.03022,
-            "femenino": 22.388364,
-            "total": 48.662581
+            "femenino": 22.388364
          }
       ],
       "2056":[
          {
             "masculino": 20.935314,
-            "femenino": 22.290346,
-            "total": 48.663408
+            "femenino": 22.290346
          }
       ],
       "2057":[
          {
             "masculino": 20.83799,
-            "femenino": 22.188355,
-            "total": 48.657789
+            "femenino": 22.188355
          }
       ],
       "2058":[
          {
             "masculino": 20.738384,
-            "femenino": 22.082382,
-            "total": 48.645475
+            "femenino": 22.082382
          }
       ],
       "2059":[
          {
             "masculino": 20.637016,
-            "femenino": 21.973009,
-            "total": 48.626467
+            "femenino": 21.973009
          }
       ],
       "2060":[
          {
             "masculino": 20.534342,
-            "femenino": 21.860796,
-            "total": 48.60083
+            "femenino": 21.860796
          }
       ],
       "2061":[
          {
             "masculino": 20.430744,
-            "femenino": 21.74616,
-            "total": 48.568663
+            "femenino": 21.74616
          }
       ],
       "2062":[
          {
             "masculino": 20.326861,
-            "femenino": 21.629874,
-            "total": 48.530255
+            "femenino": 21.629874
          }
       ],
       "2063":[
          {
             "masculino": 20.222987,
-            "femenino": 21.512286,
-            "total": 48.485878
+            "femenino": 21.512286
          }
       ],
       "2064":[
          {
             "masculino": 20.119379,
-            "femenino": 21.393639,
-            "total": 48.435839
+            "femenino": 21.393639
          }
       ],
       "2065":[
          {
             "masculino": 20.016203,
-            "femenino": 21.273967,
-            "total": 48.380501
+            "femenino": 21.273967
          }
       ],
       "2066":[
          {
             "masculino": 19.914365,
-            "femenino": 21.154278,
-            "total": 48.320603
+            "femenino": 21.154278
          }
       ],
       "2067":[
          {
             "masculino": 22.792431,
-            "femenino": 23.650819,
-            "total": 48.256846
+            "femenino": 23.650819
          }
       ],
       "2068":[
          {
             "masculino": 22.776918,
-            "femenino": 23.662873,
-            "total": 48.18989
+            "femenino": 23.662873
          }
       ],
       "2069":[
          {
             "masculino": 22.758319,
-            "femenino": 23.669656,
-            "total": 48.120592
+            "femenino": 23.669656
          }
       ],
       "2070":[
          {
             "masculino": 22.758319,
-            "femenino": 23.669656,
-            "total": 48.120592
+            "femenino": 23.669656
          }
       ]
    }
