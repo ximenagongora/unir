@@ -1,0 +1,14 @@
+[
+    { 
+        "x": 1000, 
+        "grupo": "aguilas" 
+    }, 
+    {
+        "x": 2000, 
+        "grupo": "leon" 
+    }, 
+    {
+        "x": 3000, 
+        "grupo": "tigre"
+    }
+]
